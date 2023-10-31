@@ -67,7 +67,7 @@ struct ContentView: View {
                             .onTapGesture {
                                 activeSheet = .first
                             }
-                        Text("Beginning with building drones in my dorm room, I learned to fly, becoming the first person to take and pass the FAA's 14 CFR Part 107 exam, and partner with MSU's Conquer Acceelerator on my startup Drone Capital.")
+                        Text("Beginning with building drones in my dorm room, I learned to fly, becoming the first person to take and pass the FAA's 14 CFR Part 107 exam at MIAT, and to partner with MSU's Conquer Acceelerator on my startup Drone Capital.")
                             .padding(50)
                         Spacer()
                         Group{Divider()

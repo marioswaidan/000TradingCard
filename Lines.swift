@@ -12,10 +12,10 @@ struct Lines: View {
         List{
             HStack{
                 Text("Lines")
-                Spacer(
+                Spacer()
                 Image(systemName: "trophy")
                     
-            }
+                }
             HStack{
                 Text("Lines")
             }
